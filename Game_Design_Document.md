@@ -5,10 +5,10 @@
 | Pole | Wartość |
 |------|---------|
 | Nazwa gry | **A Game about Monsters** |
-| Opis logo |  |
+| Opis logo | przedstawia jakiegoś potwora / jego część ciała |
 | Autor / Zespół | MoonFang Games |
 | Data wersji dokumentu | `marzec_26` |
-| Tagline / Elevator Pitch |  |
+| Tagline / Elevator Pitch | Czy myślałeś kiedyś o polowaniu na potwory? Wejściu do ciemnego lasu i zmierzeniu się z czychającymi tam niebezpieczeństwami? Nie? No cóż, zawsze możesz się przekonać, jak to jest! |
 
 ---
 
