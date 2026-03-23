@@ -33,9 +33,7 @@
 | Mechaniki zaawansowane | Poszczególne sprzęty, z którymi potwór będzie interaktował w różny sposób, w zależności od typu |
 | System punktów / progresji | Zdobywanie doświadczenia i monet pozwoli na odblokowanie kolejnych poziomów, sprzętów, ulepszeń i elementów kosmetycznych |
 | Interakcje gracza ze światem | Elementy wyposarzenia można znaleźć w pewnych miejscach na mapie (później można je kupić, aby je mieć na początku w samochodzie); kilka POI, gdzie mogą się pojawić elementy wyposarzenia / miejsce zainteresowania potwora |
-| Balans i trudność | Poziom trudności jest stały i domyślny, ale można stworzyć tryb własny, w którym trudność może być zwiększona / zmniejszona (przekłada to się na wynik końcowy);
-potwór może skrzywdzić gracza i doprowadzić do jego śmierci -> przegranej, ale gracz nie może zabić potwora (jedynie go chwilowo osłabić);
-na początku jest znacznie ciężej, bo nie zna się mechanik potworów oraz nie ma się zaawansowanego sprzętu, który ułatwiałby wykonanie zadania |
+| Balans i trudność | Poziom trudności jest stały i domyślny, ale można stworzyć tryb własny, w którym trudność może być zwiększona / zmniejszona (przekłada to się na wynik końcowy); potwór może skrzywdzić gracza i doprowadzić do jego śmierci -> przegranej, ale gracz nie może zabić potwora (jedynie go chwilowo osłabić); na początku jest znacznie ciężej, bo nie zna się mechanik potworów oraz nie ma się zaawansowanego sprzętu, który ułatwiałby wykonanie zadania |
 
 ---
 
